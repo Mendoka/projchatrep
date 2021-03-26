@@ -126,7 +126,7 @@
 						<configuration>
 						    <artifactItems>
 							<artifactItem>
-							    <groupId>com.github.jsimone</groupId>
+							    <groupId>com.github.Mendoka</groupId>
 							    <artifactId>webapp-runner</artifactId>
 							    <version>8.5.11.3</version>
 							    <destFileName>webapp-runner.jar</destFileName>
